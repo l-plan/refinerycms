@@ -1,5 +1,9 @@
 # Refinery CMS™
 
+
+	deleted:    core/app/views/refinery/_header.html.erb
+	deleted:    pages/app/views/refinery/pages/home.html.erb
+
 __An open source content management system for Rails 5.1+__
 
 More information at [https://www.refinerycms.com](https://www.refinerycms.com)
